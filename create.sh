@@ -1,5 +1,5 @@
 #! /bin/sh
-device=Vince
+device=$1
 echo "$device Splash Image Maker"
 echo "-----------------------------"
 width=1080
