@@ -11,7 +11,7 @@
 
 	- copy the photos you want for logo, fastboot and corrupt to pics folder
 	- copy device header file to bin and rename as header_device.img
-	- from a terminal after cd in to the directory and  run `./create.sh device`
+	- from a terminal after cd into the directory run `./create.sh device`
 	- flash and try
 
 
